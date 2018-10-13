@@ -1,4 +1,4 @@
-console.log(data)
+//console.log(data)
 
 var pop = data.filter(function (data){
 	return data.genre == "Pop"
@@ -25,7 +25,7 @@ var rb = data.filter(function (data){
 })
 console.log(rb)
 
-var country = data.filter(function (data){
-	return data.genre == "Country"
+var rock = data.filter(function (data){
+	return data.genre == "Rock"
 })
-console.log(country)
+console.log(rock)

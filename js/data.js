@@ -41,7 +41,7 @@ var data = [{
 }, {
 	artist: "Lil Uzi Vert",
 	genre: "Hip-Hop",
-	song: "XO Tour Lif3",
+	song: "XO TOUR LIF3",
 	image: "../images/xo-tour-life.jpg"
 }, {
 	artist: "XXXTentacion",
@@ -119,58 +119,63 @@ var data = [{
 	song: "Burn the House Down",
 	image: ".../images/"
 }, {
-	artist: "",
+	artist: "Khalid",
 	genre: "R&B",
-	song: "",
+	song: "Better",
 	image: ".../images/"
 }, {
-	artist: "",
+	artist: "The Weekend",
 	genre: "R&B",
-	song: "",
+	song: "Call Out My Name",
 	image: ".../images/"
 }, {
-	artist: "",
+	artist: "Bruno Mars",
 	genre: "R&B",
-	song: "",
+	song: "That's What I Like",
 	image: ".../images/"
 }, {
-	artist: "",
+	artist: "Sam Smith",
 	genre: "R&B",
-	song: "",
+	song: "Too Good at Goodbyes",
 	image: ".../images/"
 }, {
-	artist: "",
+	artist: "Mario",
 	genre: "R&B",
-	song: "",
+	song: "Let Me Love You",
 	image: ".../images/"
 }, {
-	artist: "",
+	artist: "Adele",
 	genre: "R&B",
-	song: "",
+	song: "When We Were Young",
 	image: ".../images/"
 }, {
-	artist: "",
-	genre: "Country",
-	song: "",
+	artist: "Electric Light Orchestra",
+	genre: "Rock",
+	song: "Mr. Blue Sky",
 	image: ".../images/"
 }, {
-	artist: "",
-	genre: "Country",
-	song: "",
+	artist: "Queen",
+	genre: "Rock",
+	song: "Bohemian Rhapsody",
 	image: ".../images/"
 }, {
-	artist: "",
-	genre: "Country",
-	song: "",
+	artist: "Queen",
+	genre: "Rock",
+	song: "Don't Stop Me Now",
 	image: ".../images/"
 }, {
-	artist: "",
-	genre: "Country",
-	song: "",
+	artist: "Journey",
+	genre: "Rock",
+	song: "Don't Stop Believin'",
 	image: ".../images/"
 }, {
-	artist: "",
-	genre: "Country",
-	song: "",
+	artist: "Bon Jovi",
+	genre: "Rock",
+	song: "Livin' on a Prayer",
+	image: ".../images/"
+}, {
+	artist: "Imagine Dragons",
+	genre: "Rock",
+	song: "Believer",
 	image: ".../images/"
 }]
