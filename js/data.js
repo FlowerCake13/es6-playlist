@@ -62,27 +62,27 @@ var data = [{
 	artist: "Zedd, Maren Morris",
 	genre: "Electronic",
 	song: "The Middle",
-	image: ".../images/"
+	image: ".../images/middle.jpg"
 }, {
 	artist: "Marshmello, Khalid",
 	genre: "Electronic",
 	song: "Silence",
-	image: ".../images/"
+	image: ".../images/silence.jpg"
 }, {
 	artist: "Chainsmokers, Kelsea Barllerini",
 	genre: "Electronic",
 	song: "This Feeling",
-	image: ".../images/"
+	image: ".../images/this-feeling.jpg"
 }, {
 	artist: "Alan Walker, Noah Cyrus, Digital Farm Animals, Juliander",
 	genre: "Electronic",
 	song: "All Falls Down",
-	image: ".../images/"
+	image: ".../images/all-falls-down.jpg"
 }, {
 	artist: "Icona Pop",
 	genre: "Electronic",
 	song: "I Love It",
-	image: ".../images/"
+	image: ".../images/love-it.jpg"
 }, {
 	artist: "David Guetta, Sia",
 	genre: "Electronic",
