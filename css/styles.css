@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	background-color: blue;
+	background-color: #c6f8ff;
 }
 
 #container{
@@ -17,4 +17,16 @@ body{
 
 button{
 	margin: 3px;
+}
+
+.music-img{
+	height: 200px;
+	width: 200px;
+}
+
+#music-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 100px;
 }

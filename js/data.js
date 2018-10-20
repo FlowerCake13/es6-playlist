@@ -2,180 +2,180 @@ var data = [{
 	artist: "Lauv and Julia Michaels",
 	genre: "Pop",
 	song: "There's No Way",
-	image: "../images/no-way.jpg"
+	image: "images/no-way.jpg"
 }, {
 	artist: "Bennny Blanco, Halsey, Khalid",
 	genre: "Pop",
 	song: "Eastside",
-	image: "../images/eastside.jpg"
+	image: "images/eastside.jpg"
 }, {
 	artist: "Quinn XCII, Chelsea Cutler",
 	genre: "Pop",
 	song: "Flare Guns",
-	image: "../images/flare-guns.jpg"
+	image: "images/flare-guns.jpg"
 }, {
 	artist: "Lauv",
 	genre: "Pop",
 	song: "Getting Over You",
-	image: "../images/getting-over.jpg"
+	image: "images/getting-over.jpg"
 }, {
 	artist: "Billy Joel",
 	genre: "Pop",
 	song: "Uptown Girl",
-	image: "../images/uptown-girl.jpeg"
+	image: "images/uptown-girl.jpeg"
 }, {
 	artist: "gnash, Olivia Obrien",
 	genre: "Pop",
 	song: "I hate you, I love you",
-	image: "../images/hate-love.jpg"
+	image: "images/hate-love.jpg"
 }, {
 	artist: "Lil Peep, XXXTentacion",
 	genre: "Hip-Hop",
 	song: "Falling Down",
-	image: "../images/falling-down.jpg"
+	image: "images/falling-down.jpg"
 }, {
 	artist: "Rich The Kid",
 	genre: "Hip-Hop",
 	song: "Plug Walk",
-	image: "../images/plug-walk.jpg"
+	image: "images/plug-walk.jpg"
 }, {
 	artist: "Lil Uzi Vert",
 	genre: "Hip-Hop",
 	song: "XO TOUR LIF3",
-	image: "../images/xo-tour-life.jpg"
+	image: "images/xo-tour-life.jpg"
 }, {
 	artist: "XXXTentacion",
 	genre: "Hip-Hop",
 	song: "Jocelyn Flores",
-	image: "../images/jocylen-flores.jpg"
+	image: "images/jocylen-flores.jpg"
 }, {
 	artist: "Juicde WRLD",
 	genre: "Hip-Hop",
 	song: "Lucid Dreams",
-	image: "../images/lucid-dreams.jpg"
+	image: "images/lucid-dreams.jpg"
 }, {
 	artist: "Post Malone",
 	genre: "Hip-Hop",
 	song: "I Fall Apart",
-	image: "../images/fall-apart.jpg"
+	image: "images/fall-apart.jpg"
 }, {
 	artist: "Zedd, Maren Morris",
 	genre: "Electronic",
 	song: "The Middle",
-	image: ".../images/middle.jpg"
+	image: "images/middle.jpg"
 }, {
 	artist: "Marshmello, Khalid",
 	genre: "Electronic",
 	song: "Silence",
-	image: ".../images/silence.jpg"
+	image: "images/silence.jpg"
 }, {
 	artist: "Chainsmokers, Kelsea Barllerini",
 	genre: "Electronic",
 	song: "This Feeling",
-	image: ".../images/this-feeling.jpg"
+	image: "images/this-feeling.jpg"
 }, {
 	artist: "Alan Walker, Noah Cyrus, Digital Farm Animals, Juliander",
 	genre: "Electronic",
 	song: "All Falls Down",
-	image: ".../images/all-falls-down.jpg"
+	image: "images/all-falls-down.jpg"
 }, {
 	artist: "Icona Pop",
 	genre: "Electronic",
 	song: "I Love It",
-	image: ".../images/love-it.jpg"
+	image: "images/love-it.jpg"
 }, {
 	artist: "David Guetta, Sia",
 	genre: "Electronic",
 	song: "Titanium",
-	image: ".../images/"
+	image: "images/titanium.jpg"
 }, {
 	artist: "Against the Current",
 	genre: "Alternative",
 	song: "Strangers Again",
-	image: ".../images/"
+	image: "images/strangers-again.jpg"
 }, {
 	artist: "Against The Current",
 	genre: "Alternative",
 	song: "Sweet Surrender",
-	image: ".../images/"
+	image: "images/sweet-surrender.jpg"
 }, {
 	artist: "Imagine Dragons",
 	genre: "Alternative",
 	song: "Natural",
-	image: ".../images/"
+	image: "images/natural.jpg"
 }, {
 	artist: "Dennis Lloyd",
 	genre: "Alternative",
 	song: "Nevermind",
-	image: ".../images/"
+	image: "images/nevermind.jpg"
 }, {
 	artist: "The Postal Service",
 	genre: "Alternative",
 	song: "Such Great Heights",
-	image: ".../images/"
+	image: "images/great-heights.jpg"
 }, {
 	artist: "AJR",
 	genre: "Alternative",
 	song: "Burn the House Down",
-	image: ".../images/"
+	image: "images/burn-the-house.jpg"
 }, {
 	artist: "Khalid",
 	genre: "R&B",
 	song: "Better",
-	image: ".../images/"
+	image: "images/better.jpg"
 }, {
 	artist: "The Weekend",
 	genre: "R&B",
 	song: "Call Out My Name",
-	image: ".../images/"
+	image: "images/my-name.jpg"
 }, {
 	artist: "Bruno Mars",
 	genre: "R&B",
 	song: "That's What I Like",
-	image: ".../images/"
+	image: "images/what-i-like.jpg"
 }, {
 	artist: "Sam Smith",
 	genre: "R&B",
 	song: "Too Good at Goodbyes",
-	image: ".../images/"
+	image: "images/goodbyes.jpg"
 }, {
 	artist: "Mario",
 	genre: "R&B",
 	song: "Let Me Love You",
-	image: ".../images/"
+	image: "images/love-you.jpg"
 }, {
 	artist: "Adele",
 	genre: "R&B",
 	song: "When We Were Young",
-	image: ".../images/"
+	image: "images/we-were-young.jpg"
 }, {
 	artist: "Electric Light Orchestra",
 	genre: "Rock",
 	song: "Mr. Blue Sky",
-	image: ".../images/"
+	image: "images/blue-sky.jpg"
 }, {
 	artist: "Queen",
 	genre: "Rock",
 	song: "Bohemian Rhapsody",
-	image: ".../images/"
+	image: "images/bohemian.jpg"
 }, {
 	artist: "Queen",
 	genre: "Rock",
 	song: "Don't Stop Me Now",
-	image: ".../images/"
+	image: "images/stop-now.jpg"
 }, {
 	artist: "Journey",
 	genre: "Rock",
 	song: "Don't Stop Believin'",
-	image: ".../images/"
+	image: "images/believin.jpg"
 }, {
-	artist: "Bon Jovi",
+	artist: "The Killers",
 	genre: "Rock",
-	song: "Livin' on a Prayer",
-	image: ".../images/"
+	song: "Mr. Brightside",
+	image: "images/brightside.jpg"
 }, {
 	artist: "Imagine Dragons",
 	genre: "Rock",
 	song: "Believer",
-	image: ".../images/"
+	image: "images/believer.jpg"
 }]
